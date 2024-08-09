@@ -10,3 +10,4 @@ Some small projects
 7) A rollercoaster game
 8) A tip calculator
 9) A treasure game
+10) A calculator
